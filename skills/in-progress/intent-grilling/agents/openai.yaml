@@ -1,0 +1,3 @@
+interface:
+  display_name: "Intent Grilling"
+  short_description: "Grill the intent of a project or feature before any spec"

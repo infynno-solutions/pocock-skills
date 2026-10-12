@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Design Questionnaire"
+  short_description: "Turn deferred client design decisions into a questionnaire"
+policy:
+  allow_implicit_invocation: false

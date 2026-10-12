@@ -1,0 +1,5 @@
+interface:
+  display_name: "To BRD"
+  short_description: "Combine intents into a client-facing BRD, or record a response"
+policy:
+  allow_implicit_invocation: false

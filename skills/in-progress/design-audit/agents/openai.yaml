@@ -1,0 +1,5 @@
+interface:
+  display_name: "Design Audit"
+  short_description: "Check current designs against intents, BRD, and each other"
+policy:
+  allow_implicit_invocation: false

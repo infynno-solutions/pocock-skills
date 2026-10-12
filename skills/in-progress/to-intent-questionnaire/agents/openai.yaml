@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Intent Questionnaire"
+  short_description: "Turn deferred client intent decisions into a questionnaire"
+policy:
+  allow_implicit_invocation: false
